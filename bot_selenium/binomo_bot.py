@@ -3,7 +3,6 @@ from time import sleep
 from selenium.webdriver.common.keys import Keys
 from random import randint
 from datetime import datetime
-
 username = "example@email.com"
 password = "12345678"
 #compensation = ["14000", "18000", "40000","90000", "203000", "406000", "1030000"]
